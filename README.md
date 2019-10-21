@@ -20,6 +20,9 @@ b. Если наоборот с любого дочернего элемента
 Технологии
 Angular 5+, можно использовать Angular CLI.
 
+## Инструкция
+Перед тем как запустить приложение, запустите апишку, изначально скачав ее по:https://github.com/malcev-dmitry/api_tinkoff
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
